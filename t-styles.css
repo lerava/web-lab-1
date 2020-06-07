@@ -1,0 +1,22 @@
+body{
+    background-color: lightblue;
+    text-align: justify;
+    font-family: Arial;
+}
+
+.title{
+    text-align: center;
+} 
+
+.content-links{
+    vertical-align: top;
+    width: 13%;
+}
+
+.content-body{
+    vertical-align: top;
+}
+
+ul{
+    padding-left: 8%;
+}
